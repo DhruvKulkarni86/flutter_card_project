@@ -2,7 +2,8 @@
 
 A flutter static UI begginer project.
 
-A new Flutter application.
+
+
 
 ## Getting Started
 
